@@ -140,3 +140,5 @@ dmypy.json
 cython_debug/
 
 .idea
+create_chema.sql
+schema_model.mwb
