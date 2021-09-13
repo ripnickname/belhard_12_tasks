@@ -16,5 +16,3 @@ with session_scope() as session:
     person.name = "Bob"
     session.commit()
     session.refresh(person)
-
-
